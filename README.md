@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning python & javascript
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-marinov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-marinov)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
