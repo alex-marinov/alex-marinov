@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Exploring Next.js, Python & C#
-- 🔭 I’m currently working on [cq-studio](https://github.com/alex-marinov/cq-studio)
+- 🔭 I’m currently working on [konsept.design](https://konsept.design)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-marinov)](https://github.com/anuraghazra/github-readme-stats)  
 
