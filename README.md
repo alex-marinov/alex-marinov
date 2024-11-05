@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Exploring Next.js, Python & C#
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-marinov)](https://github.com/anuraghazra/github-readme-stats)  
-
-<https://alex-marinov.github.io/>  
+- 🌱 Exploring coding & AI
 
 <!--
 **alex-marinov/alex-marinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
